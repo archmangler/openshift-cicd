@@ -1,0 +1,2 @@
+- Code to automate deployment of openshift to various infrastructure platforms
+- Code to demonstrate CI/CD examples on OpenShift
